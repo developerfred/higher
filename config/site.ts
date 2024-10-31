@@ -2,7 +2,7 @@ export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
   name: 'HighClan - Aether Bounties',
-  description: 'Access exclusive Aether Network missions and bounties',
+  description: 'Access exclusive Aether missions and bounties',
   mainNav: [
     {
       title: "Home",
