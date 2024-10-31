@@ -1,6 +1,6 @@
 import { Bounty } from './types';
 
-export const API_BASE_URL = 'http://localhost:3000/api';
+export const API_BASE_URL = 'https://higher.interchangeably.xyz/api';
 
 export async function fetchBounties(): Promise<Bounty[]> {
     try {
