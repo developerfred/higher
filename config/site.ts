@@ -1,9 +1,8 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
-  description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
+  name: 'HighClan - Aether Bounties',
+  description: 'Access exclusive Aether Network missions and bounties',
   mainNav: [
     {
       title: "Home",

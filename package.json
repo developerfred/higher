@@ -1,5 +1,5 @@
 {
-  "name": "next-template",
+  "name": "higher-clan",
   "version": "0.0.2",
   "private": true,
   "scripts": {
@@ -17,11 +17,13 @@
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.4.0",
     "clsx": "^1.2.1",
-    "lucide-react": "0.105.0-alpha.4",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.454.0",
     "next": "^13.4.8",
     "next-themes": "^0.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "recharts": "^2.13.2",
     "sharp": "^0.31.3",
     "tailwind-merge": "^1.13.2",
     "tailwindcss-animate": "^1.0.6"
